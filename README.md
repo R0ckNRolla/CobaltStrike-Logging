@@ -19,6 +19,6 @@ that way you only pull the data you want
 
 here is an example for someone who wants to watch a video
 
-# Video Example
+# Video Example: *click the picture*
 
   [![Alt text](https://img.youtube.com/vi/XWV60J8m3S4/0.jpg)](https://youtu.be/XWV60J8m3S4)
