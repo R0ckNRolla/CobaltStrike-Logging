@@ -1,4 +1,5 @@
 # mrbs.py
+mrbs = (most recent beacon survey)
 ## Author: Matt Batten (SleepZ3R0)  Special Thank you to Nate (m4dh4tt3r)
 ### Survey Script to .CSV
 
