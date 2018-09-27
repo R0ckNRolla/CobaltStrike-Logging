@@ -6,6 +6,6 @@ This script allows an operator to take all CobaltStrike Logs for most recent bea
 
 * Make sure to change the directory to where you store cobaltstrike logs
 
-*csv will be saved in this directory: /redteam/logging/cobaltstrike/beaconid_All.csv
+* csv will be saved in this directory: /redteam/logging/cobaltstrike/beaconid_All.csv
 
 
