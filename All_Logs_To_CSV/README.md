@@ -8,4 +8,6 @@ This script allows an operator to take all CobaltStrike Logs for most recent bea
 
 * csv will be saved in this directory: /redteam/logging/cobaltstrike/beaconid_All.csv
 
+## Image Example:
 
+![](/Images/All_Logs_Beacon_CSV.PNG)
